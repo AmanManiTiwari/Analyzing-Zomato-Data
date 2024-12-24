@@ -72,16 +72,6 @@ The dataset consists of 148 records with the following columns:
    ```
 3. Run the Python script to generate visualizations and insights.
 
-## Visualization Examples
-### Type of Restaurants
-![Type of Restaurant](images/type_of_restaurant.png)
-
-### Votes by Restaurant Type
-![Votes](images/votes_by_type.png)
-
-### Heatmap of Online Orders
-![Heatmap](images/heatmap.png)
-
 ## Tools and Technologies
 - **Python**: Core programming language
 - **Pandas**: Data manipulation and analysis
